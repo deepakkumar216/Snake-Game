@@ -47,7 +47,7 @@ Try to beat your high score!
 
     ├── SnakeGame.java    # Main class to launch the game
 
-    ├── GamePanel.java    # Contains game logic and rendering
+    ├── GamePlay.java    # Contains game logic and rendering
 
     ├── README.md         # This README file
 
