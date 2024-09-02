@@ -6,7 +6,7 @@ A classic Snake Game implemented in Java using Swing and AWT. This project featu
 Smooth Gameplay: Control the snake using arrow keys.
 Dynamic Speed: The snake's speed increases as it eats more apples.
 High Score Tracking: Keeps track of the highest score achieved during a session.
-Collision Detection: Game ends if the snake collides with itself or the walls.
+Collision Detection: Game ends if the snake collides with itself.
 Simple GUI: Clean and intuitive user interface built with Java Swing.
 
 ## Getting Started
@@ -35,9 +35,10 @@ java SnakeGame
 Controls:
 
 Arrow keys to change direction (Up, Down, Left, Right).
-Avoid running into the walls or the snake's own body.
-The game ends when the snake collides with itself or the walls.
-Objective:
+Avoid running into the snake's own body.
+The game ends when the snake collides with itself.
+
+## Objective:
 
 Eat as many apples as possible to grow your snake and increase your score.
 Try to beat your high score!
