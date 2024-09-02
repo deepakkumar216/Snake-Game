@@ -4,15 +4,20 @@ A classic Snake Game implemented in Java using Swing and AWT. This project featu
 
 ## Features
 Smooth Gameplay: Control the snake using arrow keys.
+
 Dynamic Speed: The snake's speed increases as it eats more apples.
+
 High Score Tracking: Keeps track of the highest score achieved during a session.
+
 Collision Detection: Game ends if the snake collides with itself.
+
 Simple GUI: Clean and intuitive user interface built with Java Swing.
 
 ## Getting Started
 
 ## Prerequisites
 Java Development Kit (JDK): Ensure that you have JDK 8 or later installed.
+
 IDE (Optional): IntelliJ IDEA, Eclipse, or any other Java IDE.
 
 ## Installation
